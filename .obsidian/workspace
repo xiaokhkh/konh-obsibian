@@ -7,8 +7,12 @@
         "id": "78c48d2671e7bdaa",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Nest.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Nest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,5 +88,14 @@
     "collapsed": true
   },
   "active": "78c48d2671e7bdaa",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Nest.md",
+    "Common/未命名.md",
+    "Frontend/javascript/事件循环.md",
+    "Frontend/javascript.md",
+    "Frontend/事件循环.md",
+    "Frontend/React.md",
+    "Common/数据结构/概述.md",
+    "Common/数据结构/线性表.md"
+  ]
 }
