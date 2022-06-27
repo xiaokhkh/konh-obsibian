@@ -1,7 +1,11 @@
 {
   "legacyEditor": false,
   "livePreview": true,
-  "attachmentFolderPath": "pic",
+  "attachmentFolderPath": "./assets",
   "showUnsupportedFiles": false,
-  "promptDelete": false
+  "promptDelete": false,
+  "readableLineLength": true,
+  "foldIndent": true,
+  "foldHeading": true,
+  "spellcheck": true
 }
