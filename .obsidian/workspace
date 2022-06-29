@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0f94460181c676bb",
+        "id": "afcf0c754e0155f9",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "MQTT.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MQTT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +82,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0f94460181c676bb",
+  "active": "afcf0c754e0155f9",
   "lastOpenFiles": [
-    "MQTT.md",
+    "RFID.md",
+    "STM32.md",
+    "Docker.md",
+    "面试问题；.md",
+    "计算机组成原理(computer organization).md",
+    "assets/Pasted image 20220627102620.png",
+    "Frontend/未命名.md",
     "Common/校验码.md",
-    "技术/抽象和接口的区别；.md",
-    "技术方案模板/前端技术设计文档模板.md",
-    "Backend/Nest.md",
-    "Backend/ab 压力测试.md",
-    "Backend/微服务架构.md",
     "Backend/高并发情景.md",
-    "Frontend/javascript/基础.md",
-    "Frontend/未命名.md"
+    "Backend/微服务架构.md"
   ]
 }
