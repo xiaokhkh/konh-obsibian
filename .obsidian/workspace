@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "afcf0c754e0155f9",
+        "id": "b7d4e7aa90cfb345",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "常用英语句式记录.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "常用英语句式记录.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +82,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "afcf0c754e0155f9",
+  "active": "b7d4e7aa90cfb345",
   "lastOpenFiles": [
     "常用英语句式记录.md",
     "RFID.md",
