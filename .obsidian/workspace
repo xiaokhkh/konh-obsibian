@@ -7,8 +7,12 @@
         "id": "afcf0c754e0155f9",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "常用英语句式记录.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "常用英语句式记录.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,6 +89,7 @@
   },
   "active": "afcf0c754e0155f9",
   "lastOpenFiles": [
+    "常用英语句式记录.md",
     "RFID.md",
     "STM32.md",
     "Docker.md",
@@ -92,7 +98,6 @@
     "assets/Pasted image 20220627102620.png",
     "Frontend/未命名.md",
     "Common/校验码.md",
-    "Backend/高并发情景.md",
-    "Backend/微服务架构.md"
+    "Backend/高并发情景.md"
   ]
 }
