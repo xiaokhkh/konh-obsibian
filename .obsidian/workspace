@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "afcf0c754e0155f9",
+        "id": "cad7c7ed7d36dedd",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -82,17 +82,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "afcf0c754e0155f9",
+  "active": "cad7c7ed7d36dedd",
   "lastOpenFiles": [
+    "常用英语句式记录.md",
+    "nginx.md",
+    "未命名.md",
     "RFID.md",
     "STM32.md",
     "Docker.md",
     "面试问题；.md",
     "计算机组成原理(computer organization).md",
     "assets/Pasted image 20220627102620.png",
-    "Frontend/未命名.md",
-    "Common/校验码.md",
-    "Backend/高并发情景.md",
-    "Backend/微服务架构.md"
+    "Frontend/未命名.md"
   ]
 }
