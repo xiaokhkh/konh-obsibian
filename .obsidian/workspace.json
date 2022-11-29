@@ -1,0 +1,111 @@
+{
+  "main": {
+    "id": "fcc3c2ec5d7cf9dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "557f2eada8c475ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "beec3e811a520f49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Backend/Nest.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b2c1edda86a22403",
+    "type": "split",
+    "children": [
+      {
+        "id": "22d685a6e8a92582",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94cee998629f876d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0a7adc315a1de818",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "edd179759cb7c9f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "be80e67a154083e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0093ab64ffceb07d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Backend/Nest.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "beec3e811a520f49",
+  "lastOpenFiles": [
+    "坑/多租户模式实现调研.md",
+    "坑/命题.md",
+    "坑/【TS】装饰器.md",
+    "技术方案模板/前端技术设计文档模板.md",
+    "技术/抽象和接口的区别；.md",
+    "Frontend/React.md",
+    "常用英语句式记录.md",
+    "STM32.md",
+    "Frontend/javascript/基础.md",
+    "面试问题；.md"
+  ]
+}
