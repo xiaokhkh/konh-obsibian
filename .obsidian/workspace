@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b7d4e7aa90cfb345",
+        "id": "83a21e4be1dac930",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Backend/Nest.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Backend/Nest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -74,25 +79,33 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "b1c01fdc24798041",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "b7d4e7aa90cfb345",
+  "active": "83a21e4be1dac930",
   "lastOpenFiles": [
+    "Backend/Nest.md",
+    "Frontend/React.md",
+    "Frontend/未命名.md",
+    "Frontend/javascript/基础.md",
+    "技术/抽象和接口的区别；.md",
     "常用英语句式记录.md",
     "RFID.md",
     "STM32.md",
     "Docker.md",
-    "面试问题；.md",
-    "计算机组成原理(computer organization).md",
-    "assets/Pasted image 20220627102620.png",
-    "Frontend/未命名.md",
-    "Common/校验码.md",
-    "Backend/高并发情景.md"
+    "面试问题；.md"
   ]
 }
