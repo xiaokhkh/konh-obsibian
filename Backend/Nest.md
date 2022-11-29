@@ -86,6 +86,50 @@ data.save();
 8. 拦截器(interceptors)
 
 
-#### Modules 
-dynamic module
+### Provider
 
+```typescript
+
+[providers:[LoggerService]]
+
+const LoggerService = {
+provider:"LoggerService",
+useClass:LoggerService
+}
+```
+
+useValue
+useClass
+useFactory
+async provider
+useExisting
+non-service provider
+
+
+
+
+
+#### Modules 
+<<<<<<< HEAD
+dynamic module
+=======
+1. 静态模块绑定
+2. 动态模块导入
+3. provider scope 提供者范围
+	-  DEFAULT - 单例
+	-  REQUEST - 在请求处理完成后，将为每个传入请求和垃圾收集专门创建提供者的新实例
+	-  TRANSIENT
+	*tip:使用单例范围始终是推荐的方法。请求之间共享提供者可以降低内存消耗，从而提高应用程序的性能(不需要每次实例化类)。*
+
+forRoot
+forRootAsync
+forFeature
+
+
+***请求注入是冒泡的
+
+>>>>>>> ebe7416849d2785b1d29c7b1fdefa1756613336d
+
+### 循环依赖
+forward reference
+moduleRef
