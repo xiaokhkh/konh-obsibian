@@ -1,0 +1,151 @@
+{
+  "main": {
+    "id": "fcc3c2ec5d7cf9dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a3fe85aa058142e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "54f58dac68dbf143",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b2c1edda86a22403",
+    "type": "split",
+    "children": [
+      {
+        "id": "22d685a6e8a92582",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94cee998629f876d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0a7adc315a1de818",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a995af2689337f13",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "edd179759cb7c9f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "be80e67a154083e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0093ab64ffceb07d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Math.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:新建白板": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "54f58dac68dbf143",
+  "lastOpenFiles": [
+    "DeepLearn.md",
+    "mask-rcnn.md",
+    "未命名.canvas",
+    "assets/Pasted image 20230523165642.png",
+    "assets/Pasted image 20230523165451.png",
+    "node 调试指南.md",
+    "技术方案模板/未命名.md",
+    "常用英语句式记录.md",
+    "触摸LED.md",
+    "计算机组成原理(computer organization).md",
+    "Docker.md",
+    "nginx.md",
+    "RFID.md",
+    "STM32.md",
+    "Math.md",
+    "技术/抽象和接口的区别；.md",
+    "面试问题；.md",
+    "手写Promise.md",
+    "智慧视觉盘点-研发方案.md",
+    "技术方案模板/“琴棋书画”交互体验系统-立项文档.md",
+    "技术方案模板/assets/Pasted image 20230407104143.png",
+    "assets/Pasted image 20230414093439.png",
+    "assets/Pasted image 20230414093400.png",
+    "assets/Pasted image 20230414092100.png",
+    "assets/Pasted image 20230414091831.png",
+    "技术方案模板/assets",
+    "MQTT.md",
+    "typescript/Decorator.md",
+    "Frontend/javascript/基础.md",
+    "Backend/MQTT.md",
+    "work/智慧阅览桌-技术方案.md",
+    "work/RFID.md"
+  ]
+}

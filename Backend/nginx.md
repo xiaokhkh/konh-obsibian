@@ -38,20 +38,3 @@ http {
 
 }
 ```
-
-## 引流测试
-
-``` nginx.conf
-	server {
-	location /{
-		mirror /mirror
-		mirror_request_body on;
-	}
-	location /mirror{
-		internal;
-		proxy_pass xxx;
-		
-	}
-
-	}
-```
