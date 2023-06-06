@@ -100,8 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -113,8 +112,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "54f58dac68dbf143",
+  "active": "94cee998629f876d",
   "lastOpenFiles": [
+    "面试/Node.md",
+    "面试",
+    "坑/多租户模式实现调研.md",
+    "坑/命题.md",
+    "坑/【TS】装饰器.md",
+    "坑",
+    "Frontend/javascript/类型.md",
+    "Frontend/SSR.md",
     "DeepLearn.md",
     "mask-rcnn.md",
     "未命名.canvas",
@@ -143,9 +150,6 @@
     "技术方案模板/assets",
     "MQTT.md",
     "typescript/Decorator.md",
-    "Frontend/javascript/基础.md",
-    "Backend/MQTT.md",
-    "work/智慧阅览桌-技术方案.md",
-    "work/RFID.md"
+    "Frontend/javascript/基础.md"
   ]
 }
