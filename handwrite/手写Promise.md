@@ -15,7 +15,6 @@ demo.then(console.log, console.err)
 
 ```javascript
 class _Promise{
-	
 	constructor(executor){
 		this._resolveQueue = []
 		this._rejectQueue = []
