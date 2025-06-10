@@ -5,8 +5,6 @@
 ##### 概念
 
 
-
-
 竞态/时序
 
 ##### Hook
@@ -28,7 +26,7 @@ setState和useState的共同点；
 
 1. 都是调用底层enqueueSetState
 	enqueueSetState 新建一个update，将当前update放入fiber
-2. 
+
 
 
 
